@@ -11,3 +11,6 @@ Thumbs.db
 
 # SSMS temp files
 *.sql.bak
+
+# Raw data files - too large for git, sourced from NOAA GHCN
+data/
