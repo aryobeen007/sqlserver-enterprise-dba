@@ -1,0 +1,13 @@
+﻿# Backup files - too large / not meant for version control
+backups/*.bak
+backups/*.trn
+*.bak
+*.trn
+
+# OS/editor junk
+Thumbs.db
+.DS_Store
+*.swp
+
+# SSMS temp files
+*.sql.bak
