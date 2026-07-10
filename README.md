@@ -21,7 +21,7 @@ This is the follow-up to my [PostgreSQL → SQL Server migration project](https:
 |---|---|---|
 | 0 | Repo & Folder Structure | ✅ Complete |
 | 1 | New Database: Sourcing, Schema & Baseline | ✅ Complete |
-| 2 | Installation & Configuration | ⬜ Not Started |
+| 2 | Installation & Configuration | ✅ Complete |
 | 3 | Storage & Database Maintenance | ⬜ Not Started |
 | 4 | Performance Tuning | ⬜ Not Started |
 | 5 | Backup & Recovery | ⬜ Not Started |
