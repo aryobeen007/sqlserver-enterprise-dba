@@ -24,7 +24,7 @@ This is the follow-up to my [PostgreSQL → SQL Server migration project](https:
 | 2 | Installation & Configuration | ✅ Complete |
 | 3 | Storage & Database Maintenance | ✅ Complete |
 | 4 | Performance Tuning | ✅ Complete |
-| 5 | Backup & Recovery | ⬜ Not Started |
+| 5 | Backup & Recovery | ✅ Complete |
 | 6 | Security | ⬜ Not Started |
 | 7 | Auditing & Compliance | ⬜ Not Started |
 | 8 | SQL Server Agent & Automation | ⬜ Not Started |
