@@ -26,7 +26,7 @@ This is the follow-up to my [PostgreSQL → SQL Server migration project](https:
 | 4 | Performance Tuning | ✅ Complete |
 | 5 | Backup & Recovery | ✅ Complete |
 | 6 | Security | ✅ Complete |
-| 7 | Auditing & Compliance | ⬜ Not Started |
+| 7 | Auditing & Compliance | ✅ Complete |
 | 8 | SQL Server Agent & Automation | ⬜ Not Started |
 | 9 | High Availability (Always On AG) | ⬜ Not Started |
 | 10 | Monitoring | ⬜ Not Started |
