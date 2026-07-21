@@ -28,7 +28,7 @@ This is the follow-up to my [PostgreSQL → SQL Server migration project](https:
 | 6 | Security | ✅ Complete |
 | 7 | Auditing & Compliance | ✅ Complete |
 | 8 | SQL Server Agent & Automation | ✅ Complete |
-| 9 | High Availability (Always On AG) | ⬜ Not Started |
+| 9 | High Availability (Always On AG) | ✅ Complete |
 | 10 | Monitoring | ⬜ Not Started |
 | 11 | Documentation & Portfolio Packaging | ⬜ Not Started |
 
