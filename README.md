@@ -29,7 +29,7 @@ This is the follow-up to my [PostgreSQL → SQL Server migration project](https:
 | 7 | Auditing & Compliance | ✅ Complete |
 | 8 | SQL Server Agent & Automation | ✅ Complete |
 | 9 | High Availability (Always On AG) | ✅ Complete |
-| 10 | Monitoring | ⬜ Not Started |
+| 10 | Monitoring | ✅ Complete |
 | 11 | Documentation & Portfolio Packaging | ⬜ Not Started |
 
 See [`docs/phase-blueprint.md`](docs/phase-blueprint.md) for the detailed scope, sprint breakdown, and definition-of-done for each phase.
